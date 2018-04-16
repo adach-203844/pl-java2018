@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"pl.com.tt","c":"App","l":"App()"},{"p":"pl.com.tt","c":"AppTest","l":"AppTest(String)","url":"AppTest-java.lang.String-"},{"p":"pl.com.tt","c":"App","l":"main(String[])","url":"main-java.lang.String:A-"},{"p":"pl.com.tt","c":"App","l":"power(int)"},{"p":"pl.com.tt","c":"AppTest","l":"suite()"},{"p":"pl.com.tt","c":"AppTest","l":"testApp()"}]
